@@ -62,7 +62,10 @@ MAP_ROLES = {
     "rp_sister_location_night": 1540027864009936926,
     "rp_southside": 1540027913221570622,
     "gm_mc15": 1540027954371760250,
-    "rp_vindico_mines": 1540028024538406922
+    "rp_vindico_mines": 1540028024538406922,
+    "rp_downpour": 1540466585574310008,
+    "rp_yantar": 1540466663395299368,
+    "rp_naboo_city_v2_3_night": 1540466715132166214
 }
 
 CHECK_INTERVAL = 60
