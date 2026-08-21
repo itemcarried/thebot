@@ -67,7 +67,7 @@ MAP_ROLES = {
 
 CHECK_INTERVAL = 60
 
-GIF_URL = "https://tenor.com/view/fat-luffy-gif-25489523"
+GIF_URL = "' https://tenor.com/view/bleach-gif-13703346602284697442' "
 
 intents = discord.Intents.default()
 intents.guilds = True
